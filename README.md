@@ -1,8 +1,9 @@
 <img align="center" src="./Banner.png">
 <h1 align="center">Hi 👋, I'm Sankalp Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="50%" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsankalp&label=Profile%20views&color=0e75b6&style=flat" alt="devsankalp" /> </p>
+<img align="right" width="40%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on SyllaVoid (https://github.com/duplixx/Syllavoid)
 
