@@ -1,4 +1,4 @@
-<img align="center" src="./banner.png">
+<img align="center" src="./Banner.png">
 <h1 align="center">Hi 👋, I'm Sankalp Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="50%" src="https://www.lambdatest.com/resources/images/news24.gif">
