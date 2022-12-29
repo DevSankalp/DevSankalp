@@ -1,4 +1,4 @@
-<img align="center" src="./Banner.png">
+<img align="center" src="https://drive.google.com/uc?id=1H297Ty6KfCD0VTwsZkLS2l0caivbsc25">
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFFFFF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sankalp+Srivastava" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
