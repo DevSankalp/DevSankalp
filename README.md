@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devsankalp" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/128/null/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-tritone-tal-revivo.png" alt="devsankalp" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sankalp-srivastava-4b76a622b/" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" alt="https://www.linkedin.com/in/sankalp-srivastava-4b76a622b/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sankalp-srivastava-4b76a622b/" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" alt="https://www.linkedin.com/in/sankalp-srivastava-4b76a622b/" height="40" width="40" /></a>
 <a href="https://instagram.com/sri_sankalp.13" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="sri_sankalp.13" height="40" width="40" /></a>
 </p>
 
