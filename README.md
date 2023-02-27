@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on SyllaVoid (https://github.com/duplixx/Syllavoid)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Frontend Dev**
 
