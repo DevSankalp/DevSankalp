@@ -41,5 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsankalp&show_icons=true&locale=en" alt="devsankalp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsankalp&" alt="devsankalp" /></p>
-
-[![](https://visitcount.itsvg.in/api?id=Abhishek0145&icon=5&color=12)](https://visitcount.itsvg.in)
